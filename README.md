@@ -45,8 +45,7 @@ The Star Schema is the 'Order Table' and other 2 tables were connected to it. Po
 * Performed lots of calculations in the dataset, aggregated and presented data in a concise format.
 * Extracted specific information from datasets
 
-
-* Exploratory Data Analysis
+Exploratory Data Analysis
 ![](X12.PNG)
 
 
@@ -57,7 +56,7 @@ The Star Schema is the 'Order Table' and other 2 tables were connected to it. Po
 * Designing an organized and visually appealing layout.
 * Set up slicer to show details of each selection
 
-* Dashboard
+Dashboard
 ![](x24.PNG)
 
 ## Insights
