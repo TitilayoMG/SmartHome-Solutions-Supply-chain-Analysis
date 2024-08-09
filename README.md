@@ -31,7 +31,7 @@ There are 4 tables namely, customer, sales, production and inventory data.
 ![](X001.PNG)
 
 ### Data Cleaning
-Checked for missing data and changed each columns to their appropriate data types.
+Checked for missing values, duplicates and consistencies in all 4 datasets to ensure the dataset is fit for exploration and also transformed the dataset by changing the columns to the right data types 
 * Data Cleaning
 ![](X1.PNG)
 
