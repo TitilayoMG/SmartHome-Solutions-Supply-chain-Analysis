@@ -36,7 +36,7 @@ Checked for missing data and changed each columns to their appropriate data type
 ![](X1.PNG)
 
 ### Data Modelling
-The Star Schema is the 'Order Table' and other 2 tables were connected to it. PowerBI did this intelligently, automatically creating relationships with them.
+The tables were connected using primary and foreign keys
 * Model View
 ![](X7.PNG)
 
@@ -54,7 +54,7 @@ Exploratory Data Analysis
 * Chose colors that harmonize with the overall dashboard theme and maintained a consistent theme throughout the dashboard
 * Created a user-friendly interface for interactivity
 * Designing an organized and visually appealing layout.
-* Set up slicer to show details of each selection
+* Set up slicer to show details of each selection on customer type
 
 Dashboard
 ![](x24.PNG)
