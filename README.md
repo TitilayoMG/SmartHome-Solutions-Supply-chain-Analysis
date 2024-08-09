@@ -1,5 +1,5 @@
 # SmartHome-Solutions-Supply-chain-Analysis
-This project looked at customer segmentation and profiling that is, data-driven supply chain planning by leveraging customer data to plan production for the next year 
+This project looked at customer segmentation and profiling, that is, data-driven supply chain planning by leveraging customer data to plan production for the next year 
 
 ![](dataanalytics.avif)
 
@@ -55,8 +55,7 @@ The Star Schema is the 'Order Table' and other 2 tables were connected to it. Po
 * Chose colors that harmonize with the overall dashboard theme and maintained a consistent theme throughout the dashboard
 * Created a user-friendly interface for interactivity
 * Designing an organized and visually appealing layout.
-
-I set up drop-down lists using data validation techniques to show details of each driver and constructor selected
+* Set up slicer to show details of each selection
 
 * Dashboard
 ![](cardash.PNG)
@@ -77,7 +76,7 @@ I set up drop-down lists using data validation techniques to show details of eac
 * Provide excellent customer service to enhance satisfaction and loyalty.
 
 
-
+## Thank you for reading.
 
 
 
