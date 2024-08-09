@@ -1,7 +1,7 @@
 # SmartHome-Solutions-Supply-chain-Analysis
 This project looked at customer segmentation and profiling, that is, data-driven supply chain planning by leveraging customer data to plan production for the next year 
 
-![](dataanalytics.avif)
+![](OIF.jfif)
 
 ## Introduction
 SmartHome Solutions Inc. faces a significant challenge in optimizing its supply chain and production planning so, by leveraging customer data, SmartHome Solutions Inc. can streamline production processes, reduce operational costs and optimize resource allocation leading to a more efficient supply chain. 
@@ -28,17 +28,17 @@ The following are some of the Excel skills and concept demonstrated during the p
 ## Data Transformation
 There are 4 tables namely, customer, sales, production and inventory data. 
 * Data Preview
-![](Carracepreview.PNG)
+![](X001.PNG)
 
 ### Data Cleaning
 Checked for missing data and changed each columns to their appropriate data types.
 * Data Cleaning
-![](Carracepreview.PNG)
+![](X1.PNG)
 
 ### Data Modelling
 The Star Schema is the 'Order Table' and other 2 tables were connected to it. PowerBI did this intelligently, automatically creating relationships with them.
 * Model View
-![](Carracepreview.PNG)
+![](X7.PNG)
 
 ### Data Analysis
 * Created pivot tables and customized the charts 
@@ -47,7 +47,7 @@ The Star Schema is the 'Order Table' and other 2 tables were connected to it. Po
 
 
 * Exploratory Data Analysis
-![](Carracepreview.PNG)
+![](X12.PNG)
 
 
 ### Data visualization
@@ -58,7 +58,7 @@ The Star Schema is the 'Order Table' and other 2 tables were connected to it. Po
 * Set up slicer to show details of each selection
 
 * Dashboard
-![](cardash.PNG)
+![](x24.PNG)
 
 ## Insights
 * The even distribution across different age groups and the presence of various gender groups indicate a wide-ranging customer base
