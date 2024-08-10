@@ -68,20 +68,14 @@ Dashboard
 * Sales vary across different months, locations and customer types, highlighting the need to consider seasonal trends and regional differences in sales strategies.
 
 ## Recommendations 
-* Develop products catering to the diverse needs of different age and income groups
-* Focus production on top SKUs for each customer segment, ensuring they are well-stocked and readily available
-* Adjust inventory levels based on sales trends of high-value SKUs for each customer type
-* Tailor inventory to regional preferences, ensuring that popular products are available in the right locations
-* Develop targeted marketing campaigns for each customer segment (Type 1 to Type 6) focusing on their preferred SKUs
-* Align marketing campaigns with peak sales periods to capitalize on increased demand
-* Adjust production schedules based on sales trends of top SKUs which reflect the specific demands of each customer segment
-* For lower-value SKUs, adopt a lean production approach to minimize excess inventory
-* Tailor product offerings and stock levels based on preferences in cities A, B and C
+* Focus production on top SKUs for each customer segment, ensuring they are well-stocked and readily available. For lower-value SKUs, adopt a lean production approach to minimize excess inventory
+* Tailor inventory and product offerings to regional preferences, ensuring that popular products are available in the right locations
+* Develop targeted marketing campaigns for each customer segment (Type 1 to Type 6) focusing on their preferred SKUs and align marketing campaigns with peak sales periods to capitalize on increased demand
+* Adjust production schedules and inventory levels based on sales trends of top SKUs which reflect the specific demands of each customer segment
 * Optimize distribution and logistics to cater to the unique demands of each geographical location
 * Regularly analyze sales data to adopt strategies in real time
 * Use customer feedback to refine product offerings and marketing strategies
-* Engage with different customer groups to build brand loyalty and gain deeper insights into their preferences
-* Provide excellent customer service to enhance satisfaction and loyalty.
+* Engage with different customer groups to build brand loyalty and gain deeper insights into their preferences. Provide excellent customer service to enhance satisfaction and loyalty.
 
 ## Summary
 * The segmentation of customers are in six distinct types based on age and income providing a nuanced understanding of the customer base
